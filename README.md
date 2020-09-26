@@ -7,7 +7,7 @@
   
   
 
-
+<img src="https://github.com/PankajChaudhary5/PankajChaudhary5/blob/master/5083e0a2a7dcaae07c142e8b87036a27.gif" align="right" width="30%" align = "middle"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -16,7 +16,7 @@
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-<img src="https://github.com/PankajChaudhary5/PankajChaudhary5/blob/master/5083e0a2a7dcaae07c142e8b87036a27.gif" align="right" width="40%"/>
+
 
 <h3>🛠 Tech Stack</h3>
 
