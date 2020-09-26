@@ -34,4 +34,4 @@ Pankaj Chaudhary is a Software Developer having 2+ years of experience with good
 
 
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PankajChaudhary5&&show_icons=true)](https://github.com/AVS1508)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PankajChaudhary5&&show_icons=true)](https://github.com/pankajchaudhary5)
