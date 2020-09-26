@@ -25,6 +25,7 @@ Pankaj Chaudhary is a Software Developer having 2+ years of experience with good
 
 
 <h3>📌 Highlighted current activities:</h3>
+
 - 🔭 I’m currently working on System programming and Datascience with KNIME.
 - 🌱 I’m currently learning Datascience and Machine learning. 
 - 👯 I’m looking to collaborate on building communities and developing innovitive solutions with Datascience.
