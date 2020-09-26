@@ -5,7 +5,7 @@
     <a href="https://www.instagram.com/pankaj.chaudhary_/?hl=en"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/Aideepakchaudhary/Aideepakchaudhary/blob/master/giphy.gif" align="right" width="50%"/>
+  <img src="https://github.com/PankajChaudhary5/PankajChaudhary5/blob/master/5083e0a2a7dcaae07c142e8b87036a27.gif" align="right" width="50%"/>
 
 
 
