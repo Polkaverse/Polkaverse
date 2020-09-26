@@ -11,7 +11,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-Pankaj Chaudhary is a Software Consultant at Knoldus LLP. He has 1.5+ years of experience with good knowledge of Rust, Python, Java, and C. Now he is working as Rust developer and also works on machine learning and data analysis because he loves to play with data and extract some useful information from it. His hobbies are bike riding and explore new places.
+Pankaj Chaudhary is a Software Developer having 2+ years of experience with good knowledge of Rust, Python, Java, and C. Now he is working as Rust developer and also works on machine learning and data science because he loves to play with data and extract some useful information from it. His hobbies are Reading and explore new places on wheels🏍.
+
 
 
 <h3>🛠 Tech Stack</h3>
@@ -20,5 +21,16 @@ Pankaj Chaudhary is a Software Consultant at Knoldus LLP. He has 1.5+ years of e
 - 🌐 &nbsp; SystemProgramming | DataScience | Machine learning
 - 🛢 &nbsp; MySQL | PostgreSQL
 - 🔧 &nbsp; Git | KNIME | Apigee | Informatica | SpringBoot
+
+
+
+📌 Highlighted current activities:
+- 🔭 I’m currently working on System programming and Datascience with KNIME.
+- 🌱 I’m currently learning Datascience and Machine learning. 
+- 👯 I’m looking to collaborate on building communities and developing innovitive solutions with Datascience.
+- 🤔 I’m looking for help with learning more and collaboration.
+- 💬 Ask me about Rust, system programming data science, and ML.
+
+
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PankajChaudhary5&&show_icons=true)](https://github.com/AVS1508)
