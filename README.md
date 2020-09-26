@@ -11,11 +11,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+Pankaj Chaudhary is a Software Consultant at Knoldus LLP. He has 1.5+ years of experience with good knowledge of Rust, Python, Java, and C. Now he is working as Rust developer and also works on machine learning and data analysis because he loves to play with data and extract some useful information from it. His hobbies are bike riding and explore new places.
 
 
 <h3>🛠 Tech Stack</h3>
