@@ -26,7 +26,7 @@ Pankaj Chaudhary is a Blockchain Engineer having 3+ years of experience with goo
 
 <h3>📌 Highlighted current activities:</h3>
 
-- 🔭 I’m currently working on Blockchain development with Substrate and Solana.
+- 🔭 I’m currently working on Blockchain development with Substrate/Polkadot and Solana.
 - 🌱 I’m currently exploring more Rust based blockchains. 
 - 👯 I’m looking to collaborate on building communities and developing innovitive solutions.
 - 🤔 I’m looking for help with learning more and collaboration.
