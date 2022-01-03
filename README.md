@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Pankaj 👋</h1>
 <p align="center">
-     <a href="https://www.linkedin.com/in/chaudhary-pankaj/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+     <a href="https://www.linkedin.com/in/thepankajchaudhary/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/itsPChaudhary"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.instagram.com/thepankajchaudhary/?hl=en"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
@@ -11,26 +11,26 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-Pankaj Chaudhary is a Software Developer having 2+ years of experience with good knowledge of Rust, Python, Java, and C. Now he is working as Rust developer and also works on machine learning and data science because he loves to play with data and extract some useful information from it. His hobbies are Reading and explore new places on wheels🏍.
+Pankaj Chaudhary is a Blockchain Engineer having 3+ years of experience with good knowledge of Rust, Polkadot/Substrate, and Python. Now he is working on various Rust based blockchain like Polkadot/Substrate, Solana, and polygon. His hobbies are Reading and explore new places on wheels🏍.
 
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Rust | Java | R (Statistics)
-- 🌐 &nbsp; SystemProgramming | DataScience | Machine learning
+- 💻 &nbsp; Rust | Python | Javascript
+- 🌐 &nbsp; BlockchainDevelopment | SystemProgramming | DataScience
 - 🛢 &nbsp; MySQL | PostgreSQL
-- 🔧 &nbsp; Git | KNIME | Apigee | Informatica | SpringBoot
+- 🔧 &nbsp; Git | KNIME | Apigee | Informatica
 
 
 
 <h3>📌 Highlighted current activities:</h3>
 
-- 🔭 I’m currently working on System programming and Datascience with KNIME.
-- 🌱 I’m currently learning Datascience and Machine learning. 
-- 👯 I’m looking to collaborate on building communities and developing innovitive solutions with Datascience.
+- 🔭 I’m currently working on Blockchain development with Substrate and Solana.
+- 🌱 I’m currently exploring more Rust based blockchains. 
+- 👯 I’m looking to collaborate on building communities and developing innovitive solutions.
 - 🤔 I’m looking for help with learning more and collaboration.
-- 💬 Ask me about Rust, system programming data science, and ML.
+- 💬 Ask me about Blockchain, Rust, System programming, and data science.
 
 
 
