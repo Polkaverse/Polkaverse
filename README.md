@@ -17,8 +17,8 @@ Pankaj Chaudhary is a Blockchain Engineer having 3+ years of experience with goo
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Rust | Python | Javascript
-- 🌐 &nbsp; BlockchainDevelopment | SystemProgramming | DataScience
+- 💻 &nbsp; Rust | Substrate/Polkadot | Python | Javascript
+- 🌐 &nbsp; BlockchainDevelopment | SystemProgramming | Polkadot | Solana
 - 🛢 &nbsp; MySQL | PostgreSQL
 - 🔧 &nbsp; Git | KNIME | Apigee | Informatica
 
