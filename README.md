@@ -33,5 +33,5 @@ Pankaj Chaudhary is a Blockchain Engineer having 4+ years of experience with goo
 - 💬 Ask me about Blockchain, Rust, and System programming.
 
 
-
-[![Pankaj Chaudhary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PankajChaudhary5&&show_icons=true)](https://github.com/pankajchaudhary5)
+<!-- 
+[![Pankaj Chaudhary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PankajChaudhary5&&show_icons=true)](https://github.com/pankajchaudhary5) -->
