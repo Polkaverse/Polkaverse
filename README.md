@@ -30,7 +30,7 @@ Pankaj Chaudhary is a Blockchain Engineer having 4+ years of experience with goo
 - 🌱 I’m currently exploring more Rust based blockchains. 
 - 👯 I’m looking to collaborate on building communities and developing innovitive solutions.
 - 🤔 I’m looking for help with learning more and collaboration.
-- 💬 Ask me about Blockchain, Rust, and System programming.
+- 💬 Ask me about Blockchain and Rust.
 
 
 <!-- 
