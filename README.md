@@ -11,7 +11,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-Pankaj Chaudhary is a Blockchain Engineer having 4+ years of experience with good knowledge of Rust, Polkadot/Substrate, and Python. Now he is working on  Polkadot/Substrate projects. His hobbies are Reading and explore new places on wheels🏍.
+Pankaj Chaudhary is a Senior Blockchain Engineer having 4+ years of experience with good knowledge of Rust, Polkadot/Substrate, and Python. Now he is working on  Polkadot/Substrate projects. His hobbies are Reading and explore new places on wheels🏍.
 
 
 
