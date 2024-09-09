@@ -15,22 +15,22 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-Pankaj is a Senior Blockchain Engineer having 6+ years of experience with good knowledge of Rust, Polkadot/Substrate, and Python. Now he is working on  Polkadot/Substrate projects.
+Pankaj is a Senior Blockchain Engineer having 6+ years of experience with good knowledge of Rust, Polkadot/Substrate, Ethereum, and Python. Now he is working on Polkadot/Substrate and Ethereum projects.
 
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Rust | Substrate | Ink | Python | Javascript | Typescript | React JS
-- 🌐 &nbsp; BlockchainDevelopment | AI | Machine Learning | SystemProgramming | Polkadot | Cosmos | Casper
+- 💻 &nbsp; Rust | Substrate | Ink | Ethereum| Python | Typescript | React JS
+- 🌐 &nbsp; BlockchainDevelopment | AI | Machine Learning | SystemProgramming | Cosmos
 - 🛢 &nbsp; MySQL | PostgreSQL | Mongo DB
-- 🔧 &nbsp; Git | KNIME | Apigee | Informatica
+- 🔧 &nbsp; Git | Bitbucket | KNIME | Apigee | Informatica
 
 
 
 <h3>📌 Highlighted current activities:</h3>
 
-- 🔭 I’m currently working on Blockchain development with Substrate/Polkadot and Solana.
+- 🔭 I’m currently working on Blockchain development with Substrate/Polkadot, Ethereum, and Solana.
 - 🌱 I’m currently exploring more Rust based blockchains. 
 - 👯 I’m looking to collaborate on building communities and developing innovitive solutions.
 - 🤔 I’m looking for help with learning more and collaboration.
