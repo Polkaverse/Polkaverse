@@ -15,7 +15,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-Pankaj is a Senior Blockchain Engineer having 6+ years of experience with good knowledge of Rust, Polkadot/Substrate, Ethereum, Solana and React. Now he is working on Solana, Polkadot/Substrate and Ethereum projects.
+Pankaj is a Senior Blockchain Engineer having 7+ years of experience with good knowledge of Rust, Polkadot/Substrate, Ethereum, Solana and React. Now he is working on Solana, Polkadot/Substrate and Ethereum projects.
 
 
 
